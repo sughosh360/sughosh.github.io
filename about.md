@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About Sughosh V Kaushik
 ---
 
 <h1 class="owner-name">{{ site.owner.name}} </h1>
